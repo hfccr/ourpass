@@ -33,6 +33,11 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/react": "^17.0.40",
     "@usedapp/core": "^0.12.1",
+    "@zoralabs/nft-components": "^1.1.2",
+    "@zoralabs/nft-drop-contracts": "^1.0.1",
+    "@zoralabs/nft-hooks": "^1.1.8",
+    "@zoralabs/zdk": "^2.1.4",
+    "formik": "^2.2.9",
     "graphql": "^16.3.0",
     "ipfs-deploy": "^11.2.0",
     "jwt-decode": "^3.1.2",
@@ -41,8 +46,11 @@
     "object-hash": "^3.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-qr-code": "^2.0.7",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "4.0.3",
-    "styled-components": "^5.3.3"
+    "styled-components": "^5.3.3",
+    "yup": "^0.32.11"
   },
   "eslintConfig": {
     "extends": [
