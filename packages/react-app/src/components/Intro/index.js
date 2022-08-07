@@ -27,8 +27,8 @@ export const Intro = () => {
           variant="h3"
           sx={{ maxWidth: 'md', textAlign: 'center', color: '#fff' }}
         >
-          NFT event and pass generation built with zora, NFT.Storage and lit
-          protocol
+          NFT event and pass generation built with Zora, NFT.Storage and Lit
+          Protocol
         </Typography>
         <Typography
           variant="h5"
